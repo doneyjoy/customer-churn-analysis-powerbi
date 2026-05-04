@@ -23,7 +23,7 @@ This project analyzes customer churn behavior using Power BI to identify key fac
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * 43% churn observed in month-to-month contracts
 * 53% of churn occurs within the first 6 months
@@ -38,13 +38,13 @@ This project analyzes customer churn behavior using Power BI to identify key fac
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 * Customer Churn Dashboard.pbix
 * Dashboard.png
 
 ---
 
-## 
+## Conclusion
 
 The analysis highlights that early customer engagement, long-term contracts, and improved support services can significantly reduce churn.
