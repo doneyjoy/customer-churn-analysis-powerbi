@@ -34,7 +34,7 @@ This project analyzes customer churn behavior using Power BI to identify key fac
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](customerchun.png)
 
 ---
 
